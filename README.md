@@ -10,6 +10,6 @@ Usando emojis 🤙. Para ver outros acesse [aqui](https://github.com/ikatyang/em
 
 [Minha página inicial](https://github.com/VitorVDavoglio)
 
-![Mostrando a página criada](https://vitorvdavoglio.github.io/Ola-github/site-exemplo/index.html)
+[Mostrando a página criada](https://vitorvdavoglio.github.io/Ola-github/site-exemplo/index.html)
 
 ![manufacturetocat (2)](https://user-images.githubusercontent.com/100804112/196201726-6d39d532-6949-4bf1-b106-e029e9c6bfe6.png)
